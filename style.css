@@ -1,0 +1,15 @@
+@charset "utf-8";
+.container-fluid .container {
+    background-color: #366FF4;
+}
+body {
+    text-shadow: 0px 0px #52BEFB;
+	background-attachment: fixed;
+    background-color: #DADDDF;
+    background-image: -webkit-linear-gradient(270deg,rgba(129,221,244,1.00) 2.59%,rgba(82,190,251,1.00) 22.28%,rgba(251,251,251,1.00) 46.63%,rgba(82,190,251,1.00) 74.09%,rgba(0,29,255,1.00) 98.45%);
+    background-image: -moz-linear-gradient(270deg,rgba(129,221,244,1.00) 2.59%,rgba(82,190,251,1.00) 22.28%,rgba(251,251,251,1.00) 46.63%,rgba(82,190,251,1.00) 74.09%,rgba(0,29,255,1.00) 98.45%);
+    background-image: -o-linear-gradient(270deg,rgba(129,221,244,1.00) 2.59%,rgba(82,190,251,1.00) 22.28%,rgba(251,251,251,1.00) 46.63%,rgba(82,190,251,1.00) 74.09%,rgba(0,29,255,1.00) 98.45%);
+    background-image: linear-gradient(180deg,rgba(129,221,244,1.00) 2.59%,rgba(82,190,251,1.00) 22.28%,rgba(251,251,251,1.00) 46.63%,rgba(82,190,251,1.00) 74.09%,rgba(0,29,255,1.00) 98.45%);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
